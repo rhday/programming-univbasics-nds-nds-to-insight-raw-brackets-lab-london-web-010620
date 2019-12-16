@@ -11,7 +11,7 @@ def directors_totals(nds)
     film_index = 0 
     films = nds[directors_index][:movies]
     while film_index < films.length do
-      total_grossed 
+      total_grossed += films
     
     end
   end
