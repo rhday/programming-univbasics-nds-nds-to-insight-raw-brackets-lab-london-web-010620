@@ -18,5 +18,4 @@ def directors_totals(nds)
     directors_index += 1
   end
   result
-nil
 end
